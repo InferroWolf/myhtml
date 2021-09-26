@@ -1,0 +1,18 @@
+*{
+    border-color: #00ffff
+    border-width: 3px;
+    border-style:dotted;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
